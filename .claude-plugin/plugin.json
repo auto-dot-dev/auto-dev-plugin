@@ -1,0 +1,15 @@
+{
+  "name": "auto-dev",
+  "displayName": "Auto.dev",
+  "version": "1.0.0",
+  "description": "Vehicle data from Auto.dev in Claude: decode a VIN, search car listings, and get photos, specs, recalls, payment and interest-rate estimates, taxes and fees, and total cost of ownership.",
+  "author": {
+    "name": "Auto.dev",
+    "url": "https://www.auto.dev"
+  },
+  "homepage": "https://docs.auto.dev/v2/mcp-quickstart",
+  "repository": "https://github.com/auto-dot-dev/auto-dev-plugin",
+  "privacyPolicyUrl": "https://www.auto.dev/privacy",
+  "license": "MIT",
+  "keywords": ["automotive", "vin", "vehicle-data", "car-listings", "recalls"]
+}

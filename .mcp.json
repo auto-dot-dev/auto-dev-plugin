@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "auto-dev": {
+      "type": "http",
+      "url": "https://mcp.auto.dev/mcp"
+    }
+  }
+}
