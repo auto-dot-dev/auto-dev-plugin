@@ -11,5 +11,5 @@
   "repository": "https://github.com/auto-dot-dev/auto-dev-plugin",
   "privacyPolicyUrl": "https://www.auto.dev/privacy",
   "license": "MIT",
-  "keywords": ["automotive", "vin", "vehicle-data", "car-listings", "recalls"]
+  "keywords": ["automotive", "cars", "used-cars", "vin-decoder", "car-listings", "vehicle-data", "recalls", "car-payments", "dealers"]
 }
