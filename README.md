@@ -17,7 +17,7 @@ and fees, and total cost of ownership, without leaving the conversation.
    run `/mcp` and choose **Authenticate** for `auto-dev`.
 2. Sign in with your Auto.dev account, or create one. Sign-in happens on id.org.ai, the
    sign-in service Auto.dev uses. The Free plan needs no card.
-3. Ask something like "Decode WP0AF2A99KS165242" or "Find 2021 to 2023 Toyota RAV4s under
+3. Ask something like "Decode 2T3P1RFV5MW142204" or "Find 2021 to 2023 Toyota RAV4s under
    $30,000 in Texas".
 
 ## Plans and usage
